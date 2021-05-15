@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Amiyanshu",
+    "occupation": "Front End Web Developer",
+    "description": "Eat, Sleep, React,Repeat",
+    "image": "DSC_0002.jpg",
+    "bio": "Hi there! I am Amiyanshu, a Metallurgical Engineering Student at IIT(BHU),Varanasi. I've been coding for over 15 months now ,currently working on web development projects.Apart from this I love creating digital artwork using Photoshop.Innovative ReactJS developer with willingness to learn and explore my knowledge.",
+    "contactmessage": "Feel free to DM me!",
+    "email": "amiyanshu.student.met19@iitbhu.ac.in",
+    "phone": "+91 6201809128",
+    "address": {
+      "street": "Sundari Bhawan,Pakri",
+      "city": "India",
+      "state": "Bihar",
+      "zip": "802301"
+    },
+    
+    "resumedownload": "https://drive.google.com/file/d/1rohfEY8UkeSK9bCMMk63DMUwxnbqHm21/view?usp=sharing",
+    "social": [
+      
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/amiyanshu.kumar/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/amiyanshu-024818193",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/amiyanshu__/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Amiyanshu-web",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Indian Institute of Technology(BHU),Varanasi",
+        "degree": "Integrated Dual Degree, Metallurgical Engineering",
+        "graduated": "July 2019-present",
+        "description1": "Core Member-The Photography Club,IIT(BHU),Varanasi.",
+        "description2":"Core Member-Club of Sustainability and Innovation,IIT(BHU),Varanasi."
+        
+      },
+      {
+        "school": "May Flower School",
+        "degree": "HSC,CBSE",
+        "graduated": "2016-2018",
+        "description1": "Percentage: 86.33%"
+        
+      },
+      {
+        "school": "Cambridge Senior Secondary School",
+        "degree": "10th Board,CBSE",
+        "graduated": "2016",
+        "description1": "Score: 10CGPA"
+        
+      }
+    ],
+    "work": [
+      {
+        "company": "E-commerce Store",
+        "title": "React JS",
+        "description": "Built the full Amazon clone with the full E-comeerce functionality.This website is built using react and firebase."
+      },
+      {
+        "company": "Chatbot",
+        "title": "React Js",
+        "description": "Developed an ELectric Vehicle chatbot which helps user in buying an electric vehicle.This bot is built using an external react chatbotkit library. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "65%"
+      },
+      {
+        "name": "C",
+        "level": "60%"
+      },{
+        "name": "C++",
+        "level": "72%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazon.png",
+        "url": "https://amazon-klon.netlify.app/"
+      },
+      {
+        "title": "Ev Bot (React JS)",
+        "category": "",
+        "image": "ev.png",
+        "url": "https://ev4all.netlify.app/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "When something is important enough, you do it even if the odds are not in your favor.",
+        "user": "Elon Musk"
+      },
+      {
+        "text": "Design is not just what it looks like and feels like. Design is how it works.",
+        "user": "Steve Jobs"
+      }
+    ]
+  }
+}
