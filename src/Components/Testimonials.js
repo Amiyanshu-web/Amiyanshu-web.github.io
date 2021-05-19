@@ -2,7 +2,7 @@ import React from "react";
 
 const Testimonials = ({ data }) => {
   if (data) {
-    var testimonials = data.testimonials.map(function (testimonials) {
+    var testimonials = data.testimonials.map(function(testimonials) {
       return (
         <li key={testimonials.user}>
           <blockquote>
@@ -20,7 +20,7 @@ const Testimonials = ({ data }) => {
         <div className="row">
           <div className="two columns header-col">
             <h1>
-              <span>Client Testimonials</span>
+              <span>Quotes</span>
             </h1>
           </div>
 

@@ -4,14 +4,14 @@
     "occupation": "Front End Web Developer",
     "description": "Eat, Sleep, React,Repeat",
     "image": "DSC_0002.jpg",
-    "bio": "Hi there! I am Amiyanshu, a Metallurgical Engineering Student at IIT(BHU),Varanasi. I've been coding for over 15 months now ,currently working on web development projects.Apart from this I love creating digital artwork using Photoshop.Innovative ReactJS developer with willingness to learn and explore my knowledge.",
+    "bio": "Hi there! I am Amiyanshu, a Metallurgical Engineering Student at IIT(BHU),Varanasi. I've been coding for over 15 months now ,currently working on web development projects. Apart from this I love creating digital artwork using Photoshop. Innovative ReactJS developer with willingness to learn and explore my knowledge.",
     "contactmessage": "Feel free to DM me!",
     "email": "amiyanshu.student.met19@iitbhu.ac.in",
     "phone": "+91 6201809128",
     "address": {
-      "street": "Sundari Bhawan,Pakri",
-      "city": "India",
-      "state": "Bihar",
+      "street": "Sundari Bhawan,Pakri,Ara",
+      "city": "Bihar",
+      "state": "India",
       "zip": "802301"
     },
     
